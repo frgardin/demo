@@ -5,11 +5,11 @@ plugins {
 	id 'org.graalvm.buildtools.native' version '0.9.28'
 }
 
-group = 'com.coursera.study'
+group = 'com.learning.coursera'
 version = '0.0.1-SNAPSHOT'
 
 java {
-	sourceCompatibility = '21'
+	sourceCompatibility = '17'
 }
 
 configurations {

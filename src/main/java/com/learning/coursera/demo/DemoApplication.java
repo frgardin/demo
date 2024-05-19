@@ -1,4 +1,4 @@
-package com.coursera.study.demo;
+package com.learning.coursera.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
