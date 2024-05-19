@@ -96,3 +96,22 @@ logging frameworks, Web Service Frameworks
     <img src="images/modules.png">
 p>
 
+- Core and beans; These modules provide IOC and Dependency injection features
+
+- Context; This module supports internationalziation
+
+- Expression Language; It is an extension to the EL defined in JSP. It provides support to setting and getting property values and even method invocation
+
+- AOP, Aspects and Instrumentation; These modules support aspect oriented programming implementation where you can use advices, pointcuts
+
+- The aspects module provides support to integration with AspectJ
+
+- Data Access / Integration; These modules basically provide support to interact with the database
+
+- Web; This group provide support to create web applications
+
+## Spring is like a factory
+
+<p align="center">
+    <img src="images/factory.png">
+p>
