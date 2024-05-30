@@ -1,8 +1,10 @@
 spring:
     application.name: demo
 
-# configurfe server port
+# configure server port
 server:
+    servlet:
+        context-path: /api/v1
     port: 8484
 
 # configure my props
