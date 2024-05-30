@@ -30,3 +30,6 @@ info:
         description: Spring Boot Udemy Chad Course
         version: 1.0.0
     author: Felipe Gardin
+
+#spring security config
+
