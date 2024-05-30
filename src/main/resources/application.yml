@@ -1,0 +1,13 @@
+spring:
+    application.name: demo
+
+# configurfe server port
+server:
+    port: 8484
+
+# configure my props
+coach:
+    name: Mickey mouse
+    
+team:
+    name: The Mouse Crew
