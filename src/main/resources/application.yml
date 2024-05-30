@@ -11,3 +11,22 @@ coach:
     
 team:
     name: The Mouse Crew
+
+# actuator configuration
+management:
+    info:
+        env:
+            enabled: true
+    endpoints:
+        web:
+            exposure:
+                include: health, info
+
+#actuator info properties
+
+info:
+    app:
+        name: My Super Cool App
+        description: Spring Boot Udemy Chad Course
+        version: 1.0.0
+    author: Felipe Gardin
